@@ -1,0 +1,23 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build results
+Source/bin/
+Source/obj/
+Output/
+Tables/Test/
+*.pdb
+
+# IDE files
+.vs/
+.idea/
+*.user
+*.suo
+*.sln.DotSettings.user
+*.csproj.user
+
+# Excel temporary files
+~$*
+.~*
